@@ -8,6 +8,6 @@
 
 * **csv_files** - contains the CSV files of the reduction statistics for both the Theia and the Trace datasets. These CSV files are used for conducting the analysis. 
 
-* **analysis** - contains the python notebook with corresponding code of the analysis
+* **analysis** - contains the python notebook with corresponding python code of the analysis
 
 The **DARPA dataset** (Engagement-3) can be found [here](https://drive.google.com/drive/folders/1fOCY3ERsEmXmvDekG-LUUSjfWs6TRdp-).
